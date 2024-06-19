@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gialregynit.github.io/sitemap
+Sitemap: https://gialregynit.github.io/app/sitemap
+Sitemap: https://gialregynit.github.io/assets/sitemap
+Sitemap: https://gialregynit.github.io/css/sitemap
+Sitemap: https://gialregynit.github.io/includes/sitemap
+Sitemap: https://gialregynit.github.io/item/sitemap
+Sitemap: https://gialregynit.github.io/src/sitemap
